@@ -1,0 +1,145 @@
+{
+  "num_cols": [
+    "Age",
+    "Flight Distance",
+    "Inflight wifi service",
+    "Departure/Arrival time convenient",
+    "Ease of Online booking",
+    "Gate location",
+    "Food and drink",
+    "Online boarding",
+    "Seat comfort",
+    "Inflight entertainment",
+    "On-board service",
+    "Leg room service",
+    "Baggage handling",
+    "Checkin service",
+    "Inflight service",
+    "Cleanliness",
+    "Flight Distance Log",
+    "Class Ordinal",
+    "Distance_Class"
+  ],
+  "cat_cols": [
+    "Gender",
+    "Customer Type",
+    "Type of Travel",
+    "Class"
+  ],
+  "num_ranges": {
+    "Age": {
+      "min": 7.0,
+      "max": 85.0,
+      "median": 40.0
+    },
+    "Flight Distance": {
+      "min": 31.0,
+      "max": 4983.0,
+      "median": 844.0
+    },
+    "Inflight wifi service": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 3.0
+    },
+    "Departure/Arrival time convenient": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 3.0
+    },
+    "Ease of Online booking": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 3.0
+    },
+    "Gate location": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 3.0
+    },
+    "Food and drink": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 3.0
+    },
+    "Online boarding": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 3.0
+    },
+    "Seat comfort": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 4.0
+    },
+    "Inflight entertainment": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 4.0
+    },
+    "On-board service": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 4.0
+    },
+    "Leg room service": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 4.0
+    },
+    "Baggage handling": {
+      "min": 1.0,
+      "max": 5.0,
+      "median": 4.0
+    },
+    "Checkin service": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 3.0
+    },
+    "Inflight service": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 4.0
+    },
+    "Cleanliness": {
+      "min": 0.0,
+      "max": 5.0,
+      "median": 3.0
+    },
+    "Flight Distance Log": {
+      "min": 3.4657359027997265,
+      "max": 8.51398806046729,
+      "median": 6.739336627357174
+    },
+    "Class Ordinal": {
+      "min": 0.0,
+      "max": 2.0,
+      "median": 1.0
+    },
+    "Distance_Class": {
+      "min": 0.0,
+      "max": 9966.0,
+      "median": 448.0
+    }
+  },
+  "cat_levels": {
+    "Gender": [
+      "Female",
+      "Male"
+    ],
+    "Customer Type": [
+      "Loyal Customer",
+      "disloyal Customer"
+    ],
+    "Type of Travel": [
+      "Business travel",
+      "Personal Travel"
+    ],
+    "Class": [
+      "Business",
+      "Eco",
+      "Eco Plus"
+    ]
+  }
+}
